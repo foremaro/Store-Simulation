@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GVrandom()
+comment0.text=nothing\ happens\ in\ the\ constructor
+comment1.params=mean
+comment1.target=double\ nextNormal(double)
+comment1.text=\r\n\ \ \ \ Generates\ random\ numbers\ about\ a\ desired\ mean\ using\ a\r\n\ \ \ \ modifed\ gaussian\ distriution.\r\n\ \ \ \ @param\ mean\ the\ desired\ mean\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ \ \ \ Main\ method\ used\ for\ testing\r\n
+numComments=3

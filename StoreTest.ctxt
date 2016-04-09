@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment0.text=\r\n\ Instantiate\ a\ Store\ object.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment1.text=\r\n\ Test\ initial\ values\ of\ the\ constructor\r\n
+comment2.params=
+comment2.target=void\ testLargerArrivalTimes()
+comment2.text=\r\n\ Test\ larger\ arrival\ times\r\n
+comment3.params=
+comment3.target=void\ testLargerServiceTimes()
+comment3.text=\r\n\ Test\ larger\ arrival\ times\r\n
+comment4.params=
+comment4.target=void\ testSetParameters()
+comment4.text=\r\n\ Test\ set\ parameters\r\n
+comment5.params=
+comment5.target=void\ testResetParameters()
+comment5.text=\r\n\ Test\ reset\ values\r\n
+comment6.params=
+comment6.target=void\ testWithManyCashiers()
+comment6.text=\r\n\ Test\ with\ many\ cashiers\r\n
+comment7.params=
+comment7.target=void\ testFewerCashiers()
+comment7.text=\r\n\ Test\ fewer\ cashiers\r\n
+numComments=8

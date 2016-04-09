@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Customer(double)
+comment0.text=\r\n\ \ \ \ constructor\ method\ to\ initialize\ customer\r\n\ \ \ \ @param\ t\r\n
+comment1.params=t
+comment1.target=void\ setArrivalTime(double)
+comment1.text=\r\n\ \ \ \ set\ arrival\ time\r\n\ \ \ \ @param\ t\r\n
+comment2.params=
+comment2.target=double\ getArrivalTime()
+comment2.text=\r\n\ \ \ \ @return\ arrival\ time\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ \ \ \ \ \ main\ test\ method\r\n
+numComments=4

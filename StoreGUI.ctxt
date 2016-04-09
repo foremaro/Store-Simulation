@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \ Main\ Method\ -\ intantiate\ and\ display\ the\ GUI\r\n
+comment1.params=
+comment1.target=StoreGUI()
+comment1.text=\r\n\ \ \ \ Constructor\ -\ instantiates\ and\ displays\ all\ of\ the\ GUI\ commponents\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ \ \ Respond\ to\ menu\ selections\ and\ button\ clicks\r\n\r\n\ \ \ \ @param\ e\ the\ button\ or\ menu\ item\ that\ was\ selected\r\n
+comment3.params=
+comment3.target=void\ setupMenus()
+comment3.text=\r\n\ \ \ \ Set\ up\ the\ menu\ items\r\n
+numComments=4

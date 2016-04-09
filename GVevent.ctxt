@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=type\ t\ id
+comment0.target=GVevent(int,\ double,\ int)
+comment0.text=\r\nConstructor\ instantiates\ and\ event\ including\ the\r\noptional\ cashier\ number.\r\n@param\ type\ which\ type?\r\n@param\ t\ time\ of\ the\ event\r\n@param\ id\ cashier\ number\r\n
+comment1.params=type\ t
+comment1.target=GVevent(int,\ double)
+comment1.text=\r\nConstructor\ instantiates\ and\ event.\r\n@param\ type\ which\ type?\r\n@param\ t\ time\ of\ the\ event\r\n
+comment2.params=
+comment2.target=boolean\ isArrival()
+comment2.text=\r\nIs\ this\ an\ arrival\ event?\r\n@returns\ true\ if\ event\ is\ an\ Arrival\r\n
+comment3.params=
+comment3.target=boolean\ isDeparture()
+comment3.text=\r\nIs\ this\ a\ departure\ event?\r\n@returns\ true\ if\ event\ is\ a\ Departure\r\n
+comment4.params=
+comment4.target=int\ getID()
+comment4.text=\r\nWhich\ cashier?\r\n@returns\ the\ cashier\ number\r\n
+comment5.params=
+comment5.target=double\ getTime()
+comment5.text=\r\nAt\ what\ time?\r\n@returns\ the\ event\ time\r\n
+comment6.params=e
+comment6.target=int\ compareTo(java.lang.Object)
+comment6.text=\r\n\ This\ method\ is\ required\ for\ the\ Comparable\ interface\r\n\ It\ returns\ a\ negative\ number\ if\ the\ first\ event\ is\ \r\n\ scheduled\ to\ occur\ before\ the\ second\ event.\ \ It\ is\ \r\n\ not\ explicitely\ invoked\ within\ a\ program\ but\ instead\r\n\ used\ when\ a\ comparison\ is\ necessary.\r\n\ @param\ e\ is\ expected\ to\ be\ another\ GVevent\r\n
+numComments=7
